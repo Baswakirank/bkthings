@@ -1,0 +1,22 @@
+#menu{
+    background-color: black;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+}
+.cars,.dishs,.places,.actors
+{
+    display: inline-block;
+    margin-right: 60px;
+}
+#ins
+{
+   color: black;
+}
+fieldset
+{
+    background-color: cadetblue;
+}
